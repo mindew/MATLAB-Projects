@@ -1,2 +1,3 @@
-# SofDes
-Software Design STuffs
+# MATLAB
+Repository for MATLAB projects
+Includes: MODSIM, QEA, and other projects.
